@@ -14,8 +14,11 @@ NoAnnoyance has had many maintainers and notable contributors:
 A huge "Thank you!" goes out to all maintainers and contributors! :)
 
 ## Supported GNOME versions
+
 - 45
 - 46
+- 47
+- 48
 
 ## Installation
 
